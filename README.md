@@ -1,2 +1,0 @@
-# intro
-my first repo
