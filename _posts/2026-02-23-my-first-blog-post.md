@@ -1,7 +1,8 @@
 ---
-layout: post
 title: My First Blog Post
-author: Your Name
+layout: single
+categories: [blog]
+tags: [jekyll]
 ---
 
 ## Introduction
