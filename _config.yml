@@ -20,13 +20,14 @@
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+#remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+theme: minima
 
 plugins:
   - jekyll-include-cache
   - jekyll-feed
 
-title: Welcome to my website!
+title: Welcome to my website 2026
 description: "My GitHub Pages site"
 
 # Exclude from processing.
@@ -52,9 +53,11 @@ description: "My GitHub Pages site"
 
 minimal_mistakes_skin: "dark"
 
----
-permalink: /404.html
-layout: single
-title: "404"
-author_profile: false
----
+google_analytics: G-1R35VLW5FE # your own tracking ID
+
+#---
+#permalink: /404.html
+#layout: single
+#title: "404"
+#author_profile: false
+#---
