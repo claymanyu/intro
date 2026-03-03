@@ -6,6 +6,6 @@ tags: [jekyll]
 ---
 
 
-<img src="{{ '/assets/images/queen-head-3.jpg' | relative_url }}" alt="My Photo">
+<img src="{{ '/assets/images/queen-head.jpg' | relative_url }}" alt="My Photo">
 
 
